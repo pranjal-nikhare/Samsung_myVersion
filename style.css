@@ -1,0 +1,9 @@
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: #DDDDDD;
+}
+.navbar-brand {
+    margin-left: 15px;
+}
